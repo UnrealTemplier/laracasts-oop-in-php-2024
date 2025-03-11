@@ -1,5 +1,7 @@
 <?php
 
+namespace Lesson01;
+
 // Examples of classes
 
 class Person

@@ -1,5 +1,7 @@
 <?php
 
+namespace Lesson02;
+
 class Playlist
 {
     public function __construct(public $name, public $songs) {}
