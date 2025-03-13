@@ -2,8 +2,6 @@
 
 namespace Lesson05\Inheritance2;
 
-use Couchbase\TermRangeSearchQuery;
-
 class Notification
 {
     public function __construct(public string $message) {}
